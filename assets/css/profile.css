@@ -1,0 +1,46 @@
+body{
+	/*background-color: #48D1CC;*/
+	background-color: #F5F5F5;
+}
+
+p{
+	font-size: 20px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+#upright {
+	padding-top: 50px;
+  	width:450px; 
+   	height: 800px; 
+   	/*background:red;*/ 
+
+   	float:right;
+}
+
+#upleft{ 
+   width:400px; 
+   height:800px; 
+   /*background:blue;*/ 
+   float:left;
+   padding-right: 10px;
+   margin:1px .2em 1px 1px;
+}
+#below {
+	padding-top: 100px;
+   	height:800px; 
+   	width:1500px; 
+   	/*background:green*/ 
+}
+
+#taskbar{
+	padding-top: 50px;
+	background-color: #008B8B;
+	height: 400px;
+	width: 300px;
+	border-radius: 10px;
+	color: #DE8F6E;
+	text-align: center;
+}
